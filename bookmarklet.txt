@@ -1,0 +1,1 @@
+javascript:innerHTML=document.getElementsByTagName("head")[0].innerHTML+document.getElementsByTagName("body")[0].innerHTML+"<script>location.assign('https://llk.github.io/scratch-gui/develop/#'+location.pathname.slice(10,location.pathname.length-1));</script>"
